@@ -1,0 +1,12 @@
+﻿  Source.cpp
+f:\proje1\project1\project1\source.cpp(77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(136): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(167): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(212): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(226): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\proje1\project1\project1\source.cpp(258): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\proje1\project1\project1\source.cpp(28): warning C4715: 'HammingDistance': not all control paths return a value
+  Project1.vcxproj -> F:\proje1\Project1\x64\Debug\Project1.exe
